@@ -1,4 +1,5 @@
 public class Main {
+
     public static void main(String[] args) {
         String abc = "телефон нофелет";
         boolean palindrome = true;
@@ -18,4 +19,5 @@ public class Main {
             System.out.println("Строка не является палиндромом");
         }
     }
+
 }
